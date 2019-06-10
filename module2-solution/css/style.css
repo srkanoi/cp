@@ -59,7 +59,7 @@ div.row > div {
 }
 
 /********** Desktop (ld: large device) **********/
-@media (min-width: 992px){
+@media (min-width: 991.5px){
 	.col-ld-1, .col-ld-2, .col-ld-3, .col-ld-4, .col-ld-5, .col-ld-6, .col-ld-7, .col-ld-8, .col-ld-9, .col-ld-10, .col-ld-11, .col-ld-12 {
 		float: left;
 	}
@@ -103,7 +103,7 @@ div.row > div {
 }
 
 /********** Tablet (md: medium device)**********/
-@media (min-width: 768px) and (max-width: 991px) {
+@media (min-width: 768px) and (max-width: 991.5px) {
 	.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
 		float: left;
 	}
